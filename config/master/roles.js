@@ -1,0 +1,1 @@
+module.exports.ROLES={SUPER:{id:"5f23a351a9c9cf1f8c2ebe1d",key:"super",title:"Super Admin"},USER:{id:"5f23a570bf959d20e76c6ed0",key:"user",title:"User"},SELLER:{id:"5f23a5c74c0b5721137fae09",key:"seller",title:"Seller"}}
